@@ -1,1 +1,0 @@
-Tg: https://t.me/never_say_me
