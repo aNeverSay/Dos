@@ -9,8 +9,13 @@ https://check-host.net/check-report/e1c1afbkf73
 
 
 apt update && apt upgrade - обновляемся
+
 apt install python python3 git pip - устанавливаем питон, гит и пип
+
 git clone https://github.com/aNeverSay/Dos.git - устанавливаем нашего монстра
+
 cd Dos - переходим в деректорию
+
 pip3 install -r requirements.txt - устанавливаем зависимости
+
 python3 Dos.py - запускаем
